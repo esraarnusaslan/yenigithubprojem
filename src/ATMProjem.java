@@ -10,7 +10,8 @@ public class ATMProjem {
         System.out.println("Learn Java earn money");
         //version 3
 
-
+        System.out.println("Git ogrenmek cok kolay");
+        //version 4
 
 
 
