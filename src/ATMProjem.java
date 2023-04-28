@@ -24,6 +24,8 @@ public class ATMProjem {
 
         System.out.println("bos sout");
 
+	//lokalde degisiklik yaptım
+
 
     }
 }
