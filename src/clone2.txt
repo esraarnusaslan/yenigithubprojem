@@ -2,3 +2,4 @@ Bazi kodlar yazdım
 remote a kodlar ekledim
 Degisiklikler yaptım
 2.merge
+Esra branch degisiklik
