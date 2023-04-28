@@ -16,6 +16,8 @@ public class ATMProjem {
         System.out.println("esra branch ile kod yazdim");
         //version esra 1
 
+        System.out.println("bir kisim kodlar yazdim");
+        //version esra 2
 
 
 
