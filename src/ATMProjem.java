@@ -13,7 +13,8 @@ public class ATMProjem {
         System.out.println("Git ogrenmek cok kolay");
         //version 4
 
-
+        System.out.println("esra branch ile kod yazdim");
+        //version esra 1
 
 
 
