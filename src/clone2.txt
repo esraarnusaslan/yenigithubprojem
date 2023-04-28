@@ -2,3 +2,4 @@ Bazi kodlar yazdım
 remote a kodlar ekledim
 burada cakisma olacak
 cakisma olacak mi
+branch degisiklik
