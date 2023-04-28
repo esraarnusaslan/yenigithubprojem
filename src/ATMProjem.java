@@ -22,6 +22,7 @@ public class ATMProjem {
         System.out.println("bazi degisiklikler yaptim");
         //version esra 3
 
+        System.out.println("bos sout");
 
 
     }
